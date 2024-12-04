@@ -51,4 +51,3 @@ student1.add_marks("Science", 90)
 student1.add_marks("English", 78)
 
 student1.display_details()
-
